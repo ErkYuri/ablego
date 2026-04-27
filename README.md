@@ -35,7 +35,6 @@ Protótipo da página inicial do AbleGo:
 
 ## 5. Referências
 
-- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 9050: Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos.** Rio de Janeiro, 2020.
 - META. **React: A JavaScript library for building user interfaces.** Disponível em: <https://react.dev/>. Acesso em: 27/04/2026.
 - OPENJS FOUNDATION. **Node.js Documentation.** Disponível em: <https://nodejs.org/en/docs/>. Acesso em: 27/04/2026.
 - POSTGRESQL GLOBAL DEVELOPMENT GROUP. **PostgreSQL Documentation.** Disponível em: <https://www.postgresql.org/docs/>. Acesso em: 27/04/2026.
