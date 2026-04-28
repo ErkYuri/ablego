@@ -1,7 +1,7 @@
 function App(){
   return (
     <div>
-      <h1>Hello World!</h1>
+      <h1 className="text-3x1 font-bold text-blue-600 underline">Welcome to AbleGo</h1>
 
       <p>Teste de exibicao</p>
 
