@@ -24,7 +24,7 @@ const listaDeLocais = [
     nota: "4.9",
     imagem: "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&w=600&q=80",
     tagVerde: "Elevador",
-    iconeVerde: "🛗",
+    iconeVerde: "↕️",
     tagVermelha: "Audiodescrição",
     extras: "7"
   },
