@@ -1,8 +1,12 @@
 const express = require('express');
 const app = express();
 const pool = require('./database');
+const rotasLocais = require('./routes/locais'); // O "require" deve vir primeiro
 
-const PORT = 3000; // porta do sistema
+const PORT = 3000;
+
+app.use(express.json());
+app.use('/api/locais', rotasLocais); // O "use" vem depois que a rota já foi definida
 
 // criando rota teste
 app.get('/teste-banco', async (req, res) => {
